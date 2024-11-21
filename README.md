@@ -28,7 +28,7 @@ This portfolio is designed to present my expertise in web development. It featur
 
 ## Live Demo
 
-You can view the live demo of this project here: [Portfolio Website](https://abins2003.github.io/Portfolio/s)
+You can view the live demo of this project here: [Portfolio Website](https://abins2003.github.io/Portfolio/)
 
 
 
